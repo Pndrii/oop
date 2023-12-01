@@ -8,10 +8,10 @@ class Priamokutnyk:
     def opys(self):
         print("прямокуник з периметром", self.P)
     def skiky():
-        print("створено", number, "прямокуників")
+        print("створено", Priamokutnyk.number, "прямокуників")
     
 A = Priamokutnyk(5, 6)
 A.opys()
 B = Priamokutnyk(2, 3)
 B.opys()
-print(Priamokutnyk.number)
+Priamokutnyk.skiky()
